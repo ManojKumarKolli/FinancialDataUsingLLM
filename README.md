@@ -25,8 +25,8 @@ This repository contains the implementation of an AI-driven Question Answering S
 ## Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/question-answering-system.git
-   cd question-answering-system
+   git clone https://github.com/ManojKumarKolli/FinancialDataUsingLLM.git
+   cd FinancialDataUsingLLM/QuestionAndAnswerUsingLangchainInFinance
 2. **Install Dependencies**:
 Make sure Python 3.8+ is installed on your system, then run:
    ```bash
