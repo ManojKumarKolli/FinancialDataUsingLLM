@@ -27,3 +27,13 @@ This repository contains the implementation of an AI-driven Question Answering S
    ```bash
    git clone https://github.com/yourusername/question-answering-system.git
    cd question-answering-system
+2. **Install Dependencies**:
+Make sure Python 3.8+ is installed on your system, then run:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Running the Streamlit Application**:
+Execute the following command to start the Streamlit interface:
+   ```bash
+   streamlit run main.py
+
