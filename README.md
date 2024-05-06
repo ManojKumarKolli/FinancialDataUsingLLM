@@ -37,3 +37,13 @@ Execute the following command to start the Streamlit interface:
    ```bash
    streamlit run main.py
 
+## Contributions
+We extend our deepest gratitude to each team member whose dedicated efforts have significantly shaped this project:
+
+- **Manoj Kumar** ([@manojkumar](https://github.com/ManojKumarKolli)): Led the integration and optimization of the OpenAI model, managed the model fine-tuning processes, developed evaluation metrics, and contributed to human-centric metrics analysis.
+- **Meghana Reddy** ([@meghanaDasireddy](https://github.com/DasireddyMeghana)): Responsible for data scraping and preprocessing, managed the FAISS indexing system, and played a key role in the evaluation of human-centric metrics.
+- **Krishna Sai** ([@ananthakrishna](https://github.com/ananthakrishna4747)): Developed the Streamlit application, integrated the Hugging Face model, implemented metric plotting in the UI, and handled various evaluation processes including human-centric metrics.
+
+## Acknowledgments
+Special thanks to all mentors and advisors who provided guidance throughout the project. Their insights were invaluable in navigating the complexities of advanced NLP and system integration.
+
