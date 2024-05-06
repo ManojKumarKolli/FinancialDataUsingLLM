@@ -37,6 +37,29 @@ Execute the following command to start the Streamlit interface:
    ```bash
    streamlit run main.py
 
+### Setting Up API Keys
+
+To ensure the project functions correctly, you'll need to obtain API keys from OpenAI and Weights & Biases. Follow these steps to set up your environment:
+
+#### OpenAI API Key
+1. **Obtain Key**:
+   - Visit [OpenAI](https://platform.openai.com/signup) and sign up or log in.
+   - Navigate to the API section and generate a new API key.
+
+#### Weights & Biases API Key
+1. **Obtain Key**:
+   - Sign up or log in at [Weights & Biases](https://wandb.ai/).
+   - Access your user settings and navigate to API keys to generate a new key.
+
+#### Storing API Keys Securely
+1. **Create a `.env` File** in your project's root directory.
+2. ***Wand api key is used in fine-tuning. 
+3. **Add the API Keys** to the `.env` file:
+   ```plaintext
+   open_api_key=YOUR_OPENAI_API_KEY_HERE
+   WANDB_API_KEY=YOUR_WANDB_API_KEY_HERE 
+
+
 ## Contributions
 We extend our deepest gratitude to each team member whose dedicated efforts have significantly shaped this project:
 
