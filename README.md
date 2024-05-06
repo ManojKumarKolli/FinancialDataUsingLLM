@@ -53,7 +53,7 @@ To ensure the project functions correctly, you'll need to obtain API keys from O
 
 #### Storing API Keys Securely
 1. **Create a `.env` File** in your project's root directory.
-2. ***Wand api key is used in fine-tuning. 
+2. **Wand api key is used in fine-tuning. 
 3. **Add the API Keys** to the `.env` file:
    ```plaintext
    open_api_key=YOUR_OPENAI_API_KEY_HERE
